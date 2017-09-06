@@ -3,7 +3,7 @@ ORIG_PN="clutter-gst"
 inherit cross gnome2
 
 NAME="mingw64-x86_64-clutter-gst3.0"
-VERSION=3.0.22
+VERSION=3.0.24
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="OpenGL-based animated GStreamer library for Win64 toolchain"
